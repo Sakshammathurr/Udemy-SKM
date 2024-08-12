@@ -14,3 +14,12 @@ Throughout the course, you'll work on various projects designed to reinforce you
 
 Approach
 My teaching philosophy is rooted in clarity and practicality. I aim to simplify complex concepts and provide step-by-step guidance to ensure you build a solid foundation in data science. Whether you're a beginner or looking to advance your skills, my courses are tailored to meet your needs
+
+
+
+https://www.sololearn.com/en/onboarding
+https://codingbat.com/python
+https://pynative.com/
+https://learnpython.org/
+https://www.practicepython.org/#google_vignette
+https://leetcode.com/accounts/social/signup/
